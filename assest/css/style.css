@@ -1,0 +1,9 @@
+.card{
+    height: 570px !important;
+    margin-top:60px !important;
+}
+a{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
